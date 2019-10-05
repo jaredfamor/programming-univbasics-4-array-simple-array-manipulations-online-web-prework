@@ -28,7 +28,7 @@ end
 
 
 def using_concat(my_favorite_things, concat)
-more_favs = "sports cars", "flatiron school"
+more_favs = ("sports cars", "flatiron school")
 my_favorite_things.concat("sports cars", "flatiron school")
 end
 
