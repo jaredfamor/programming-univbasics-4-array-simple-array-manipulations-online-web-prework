@@ -38,7 +38,7 @@ def using_insert(list_of_programming_languages,insert)
 end
 
 def using_uniq(haircuts)
-  haircuts.uniq(haircuts)
+  haircuts.uniq
 end
   
   
