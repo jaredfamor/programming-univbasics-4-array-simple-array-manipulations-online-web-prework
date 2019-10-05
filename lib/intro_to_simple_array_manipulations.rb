@@ -39,5 +39,6 @@ end
 
 def using_uniq(haircuts)
   haircut.uniq(2)
+end
   
   
