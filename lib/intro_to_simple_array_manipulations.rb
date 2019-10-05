@@ -46,5 +46,4 @@ def using_flatten(instruments)
 end  
 
 def using_delete_at(delete_at, famous_robots)
-  famous_robot
-  
+    deleted_robot = using_delete_at(famous_robots, 2)
